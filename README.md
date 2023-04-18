@@ -1,52 +1,37 @@
-# MW2 ACSM SOURCE  |  RACADEMY CHEATING SERVICE
+![image](https://user-images.githubusercontent.com/100650037/232643325-02c892c1-b63b-4d0e-bd2b-75f9a0cd9eef.png)
 
-![image](https://user-images.githubusercontent.com/100650037/180653459-6161ef44-76f5-4f74-aa5c-f8dd38d281c3.png)
+Hello GH, I have released an old but fully fnctional ACSM Source, i have attempted to fix the many errors in the project ut havent gotten round fto finiing it fully, so i have gae you guys a task to see if you can fix based off your general knowledge, or sheer skill, alo feedback would be much appreciated and general support wil help other coders identify problems! Enjoy!
 
-<a href="https://www.discord.gg/8SEnBvebVt"><img src="https://fontmeme.com/permalink/220724/6b2a07924d6bf9a1841cbfe147496c84.png" alt="envolver-anitta-font" border="0"></a>
+# 
 
-![image](https://user-images.githubusercontent.com/100650037/180653445-222512fd-dbae-4709-a9d8-2a1d9f03599d.png)
+![image](https://user-images.githubusercontent.com/100650037/232643223-f08a856b-ffcd-4441-bfc8-8023700978d4.png)
 
-![image](https://user-images.githubusercontent.com/100650037/180653504-09e85b0b-2cf8-4118-ba9f-298257cd137c.png)
+This is the 2019 Release, the older brother to the nexvein menu. 
 
-![image](https://user-images.githubusercontent.com/100650037/180653459-6161ef44-76f5-4f74-aa5c-f8dd38d281c3.png)
+# 
 
-![image](https://user-images.githubusercontent.com/100650037/180653527-293b9640-dc66-4ec8-beb2-217d0e61d06d.png)
+![image](https://user-images.githubusercontent.com/100650037/232639551-49c9ee38-deea-443e-bb1e-73192a2bdd69.png)
 
-# [Zcxq- Made and OWNS The source, DO NOT TRY AND CLAIM IT AS YOUR OWN, DO NOT ATTEMPT TO RESELL THIS](https://www.discord.gg/8SEnBvebVt)
-![image](https://user-images.githubusercontent.com/100650037/180653459-6161ef44-76f5-4f74-aa5c-f8dd38d281c3.png)
+Detours are what make compilations possible, without these you will not be able to construct the .dll or .exe for the program, you can find the detours by clicking [here](). 
 
-# ➯ Links:
-🔵 [Discord](https://discord.gg/8SEnBvebVt)
-🟣 [Twitch](https://twitch.tv/Hairokashi)
-🔴 [Youtube](https://www.youtube.com/channel/UCJQjE6QFR4LjORS3K6bwb0Q)
+Detours are to be placed in your `VS2019` file folders, proceed with placing `Detours.lib` in any Lib (Library) folder, then relocate the `Detours.h` file to all header or include folders. if done correctly you should be able to build .dll in both x86 and x64 release and debug, debug is for testing purposes only, releasing a debug build publically will most likely cause game crashes when using/injecting said .dll
 
+# 
 
-# ➯ Other Projects:
-![image](https://user-images.githubusercontent.com/100650037/180653713-53a5106d-40e0-43f5-8e07-ef12ff9b043e.png)
+![image](https://user-images.githubusercontent.com/100650037/232640973-7d317251-06d4-4906-a014-368b6618f058.png)
 
-![image](https://user-images.githubusercontent.com/100650037/180653679-91b41122-8a08-4077-aaaa-bd5117a525ef.png)
+Please Take into consideration, Starred {⭐} Projects released are my own creations, Made by Zcxq- and released to the public for `Educational Purposes ONLY` and is not to be profited from in any way possible, this is a release with the Source ONLY, Holding any of my products in your posession emans you agree to the terms and conditions of creator rights and ownership following the copyright act of 2011.
 
-![image](https://user-images.githubusercontent.com/100650037/180653720-08f639a7-0f8f-4a5e-b8c7-5c0921c15801.png)
-
-![image](https://user-images.githubusercontent.com/100650037/180653740-da43d2f6-f7e4-4bdf-ab6f-b7dfbd3f4963.png)
-
-![image](https://user-images.githubusercontent.com/100650037/180653588-03479ba9-ec63-4627-94d9-aeab338f6241.png)
-
-
-# ➯ Extra Information:
-
-If you like my releases, why not join the discord and see whats going on, you can buy more MW2 Cheats or Better Source codes to amplify your gameplay and coding scene's.
-
-```diff
-! DISCLAIMER:  There has been a lot of online drama in the 
-! MW2 Coding scene, if you get any form of message from GazzasLobbies#0848, 
-! ignore it, DO NOT BUY FROM HIM, i have miltiple pieces of evidence of him 
-! scamming and admitting to asking people how much money they have.
+```diff -
+- All and any adertisement containing the name of Zcxq-, Vanity and/or Night shall not be removed as 
+- this is a stamp of creational recognition - Removing listed names will result in the breach of the 
+- copyright act 2011, names of the menu, sub caegories and/or name changers can be tampered with as long 
+- as full credit sticks in the menu with appropriate adertisement
 ```
+# 
 
-I suggest you buy from RACADEMY If you're looking fot better top tier cheats for games, 40+ Vouches and Guarrantee'ing you well worth products!
+![image](https://user-images.githubusercontent.com/100650037/232642232-b66983d0-338a-451d-af8f-8b6ef7cb5d2a.png)
+```diff
 
-# Zcxq-#5824
-
-![image](https://cdn.discordapp.com/attachments/953401561646784573/990323286942576660/standard_20.gif)
-
+@@| Vasque#6373 |@@
+```
